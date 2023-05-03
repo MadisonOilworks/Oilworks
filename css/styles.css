@@ -75,6 +75,9 @@ main {
     background-color:#bab8b8;
     border-radius: 1em;
 }
+#cartridges {
+    border-radius: .5em;
+}
 #gen2disposables {
     border-radius: .5em;
 }
